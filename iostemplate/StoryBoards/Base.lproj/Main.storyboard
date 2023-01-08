@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="UeC-GC-P7F">
+    <device id="retina4_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Navigation Controller-->
+        <scene sceneID="5vD-os-Wgm">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="UeC-GC-P7F" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="mBn-WF-9vd">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="l4l-Fh-mSv" kind="relationship" relationship="rootViewController" id="Acn-NR-xTA"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="1Kj-zl-rbt" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="44.927536231884062" y="65.625"/>
+        </scene>
+        <!--Main View Controller-->
+        <scene sceneID="T93-aI-HZW">
+            <objects>
+                <viewController id="l4l-Fh-mSv" customClass="MainViewController" customModule="iostemplate" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="xIz-ox-Laz">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PD5-9W-w1O" customClass="CSActiveButton" customModule="Template" customModuleProvider="target">
+                                <rect key="frame" x="136" y="269" width="48" height="30"/>
+                                <state key="normal" title="Logout"/>
+                                <connections>
+                                    <action selector="btnLogoutTapped:" destination="l4l-Fh-mSv" eventType="touchUpInside" id="aoB-Jk-Wne"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="WPE-AY-pNK"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="PD5-9W-w1O" firstAttribute="centerX" secondItem="xIz-ox-Laz" secondAttribute="centerX" id="bii-Od-6BJ"/>
+                            <constraint firstItem="PD5-9W-w1O" firstAttribute="centerY" secondItem="xIz-ox-Laz" secondAttribute="centerY" id="c9D-Np-yaR"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="cNA-a7-BkU"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ll7-AL-6TD" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="889" y="65"/>
+        </scene>
+    </scenes>
+</document>

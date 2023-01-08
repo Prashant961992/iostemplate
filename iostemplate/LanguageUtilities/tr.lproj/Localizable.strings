@@ -1,0 +1,339 @@
+/* 
+  Localizable.strings
+  Onlia
+
+  Created by apple on 29/08/19.
+  Copyright © 2019 Confidosoft iMac. All rights reserved.
+*/
+
+//OnBoard
+"Online 24/7 for quick response" = "7/24 Hızlı Yanıt";
+"Besides safe road assistance service anywhere in Turkey!" = "Türkiye'nin her yerinde güvenli yol yardım hizmeti yanında!";
+"Automatic GPS Locater" = "Otomatik Konum Tespiti";
+"GPS locater help us find you" = "Yardım çağrısı anında otomatik konum tespiti.";
+"Instant Tracer" = "Anlık Takip";
+"Real-time Updates" = "Yol yardım ekibini harita üzerinde canlı takip et.";
+"Get Started" = "Yardım Çağır";
+"Already have an account?" = "Zaten Üyeyim";
+
+// Login Screen
+"SIGN UP" = "Üye Ol";
+"Login" = "Üye Girişi";
+"Mobile Number" = "Cep Telefonu";
+"Password" = "Cep Telefonu";
+"Forgot password?" = "Şifremi unuttum";
+"Login_btn" = "Giriş";
+
+//03-01-02-Login-Alert
+"Your phone number or password is invalid. Please try again." = "Numaran veya şifren doğru değil. Lütfen tekrar dene.";
+"OK" = "Tamam";
+
+//03-02-01-Reset Pass-Filled
+"Forgot password ?" = "Şifremi unuttum";
+"Email" =  "E-posta";
+"We will send new password to your email" = "E-posta adresine yeni bir şifre göndereceğiz";
+"Continue" = "Devam";
+
+//03-02-02-Email Verification
+"Open your email app" = "E-postamı aç";
+"Check your inbox" = "E-postanı kontrol et lütfen";
+
+//02-01-01-Register Phone-Default
+"Enter your phone number" = "Cep telefonun lütfen";
+"We’ll text a code to verify your phone" = "SMS ile doğrulama kodu göndereceğiz";
+"By continuing, you agree to Onlia's Terms & Conditions and Privacy Policy" = "Goop kullanım koşullarını ve gizlilik sözleşmesini onayladığımı kabul ediyorum. Kullanım Koşulları ve Gizlilik Anlaşması";
+"Terms & Conditions and Privacy Policy" = "Kullanım Koşulları ve Gizlilik Anlaşması";
+"has already been registered. Please use a different number or sign in" = "Cep telefonu daha önceden kayıt edilmiş. Üye isen giriş yapabilirsin, değilsen başka bir numara ile üye olabilirsin.";
+"Cancel" = "Tamam";
+"Contact Us" = "Yardım Merkezi";
+"LOGIN" = "Üye Girişi";
+
+//02-02-01-Verification Code-Default
+"Enter verification code" = "Doğrulama kodunu yaz lütfen";
+"We just sent a verification code to" = "nolu telefona doğrulama kodu gönderdik";
+"Didn’t receive it?" = "Kod gelmedi mi?";
+"Resend Code" = "Tekrar gönder";
+
+//02-03-01-Profile Information-Focused
+"Personal Information" = "Kişisel Bilgilerin";
+"Name" = "Ad";
+"Surname" = "Soyadı";
+
+//02-04-01-Email-Default
+"What’s your email?" = "E-posta adresin?";
+"You’ve entered an invalid email Please check your email address" = "E-posta adresin doğru değil. Lütfen tekrar dene.";
+
+// Navigation Drawer
+"My Garage" = "Garajım";
+"My Requests" = "Taleplerim";
+"Reviews" = "Kullanıcı Görüşleri";
+"Share the App" = "Bizi Paylaş";
+"Rate Us" = "Bizi Puanla";
+"Settings" = "Ayarlar";
+
+// Toolbar Titles
+"Vehicle Details" = "Aracım";
+"Request Details" = "Talep Detayı";
+"Reviews" = "Yorumlar";
+"Notification Settings" = "Bildirim Ayarları";
+"Personal Details" = "Kişisel Bilgiler";
+"Account Settings" = "Üyelik Bilgileri";
+"Language" = "Dil Seçeneği";
+"Help" = "Yardım";
+"FAQ" = "Merak Ettiklerin";
+"Delete Account" = "Üyeliğimi Sil";
+"Preview" = "Talep Özeti";
+"Track Your Request" = "Yardım Takibi";
+"Replacement Car" = "İkame Araç";
+
+// Greetings text
+"Good morning" = "Günaydın";
+"Good afternoon" = "Tünaydın";
+"Good evening" = "İyi akşamlar";
+"Good night" = "İyi geceler";
+
+//// Add A Vehicles
+//"Plate Number" = "Araç plakası";
+//"Please enter valid plate number" = "Geçerli bir plaka gir lütfen.";
+//"Year" = "Yıl";
+//"Make" = "Marka";
+//"Model" = "Model";
+
+// Personal Details
+"Name" = "Ad";
+"Surname" = "Soyadı";
+"Gender" = "Cinsiyet";
+"Date of Birth" = "Doğum Tarihi";
+"Address" = "Adres";
+
+// Account Settings
+"Phone Number" = "Cep Telefonu";
+"Email" = "E-posta";
+"Password" = "Şifre";
+
+// Home
+"Good morning" =  "Günaydın";
+"Good afternoon" = "Tünaydın";
+"Good evening" =  "İyi akşamlar";
+"Good night" = "İyi geceler";
+"How can we help you?"  =  "Nasıl yardımcı olabilirim?";
+"Towing & Rescue"  =  "Çekici & Kurtarıcı";
+"Breakdown"  =  "Arıza";
+"Flat Tire" =   "Lastik";
+"Jump Start" =  "Akü";
+"Lockout" =   "Kilit";
+"Out of Gas"  =  "Yakıt";
+"Starting from" = "den başlayan fiyatlarla";
+
+
+//05-02-01-01-Vehicle List - No Item
+
+"There is no vehicle in your garage"=   "Garajında henüz araç yok";
+"Vehicles added to your garage will show up here"=  "Garajına araç ekleyebilir, çıkarabilirsin. Eklediğin araçlar burada görünecek.";
+"Add A Vehicle" =  "Araç Ekle";
+
+//05-02-02-01-Add New Vehicle -Default
+"Plate Number"   = "Araç plakası";
+"Year"  =  "Yıl";
+"Make"   = "Marka";
+"Model" =  "Model";
+"Save"   = "Kaydet";
+
+//05-02-02-02-Model List
+"Models" =  "Model";
+
+//05-02-03-01-Vehicle List - One Item
+//"My Garage" = "Garajım"
+"Add"  =  "Araç Ekle";
+
+//05-02-03-02-Car Details + No Image
+"Delete" = "Aracı sil";
+
+//05-02-03-03-Edit Image
+"Cancel"   = "Vazgeç";
+
+//05-02-03-05-Car Details + Delete Vehicle
+"Are you sure you want to delete this vehicle?" = "Bu aracı silmek istiyor musun?";
+"Vehicle Details" = "Aracım";
+
+//05-06-05-01-Reviews
+"Reviews" = "Yorumlar";
+
+//05-06-01-01-Settings
+"Settings" =  "Ayarlar";
+"Personal Details" = "Kişisel Bilgiler";
+"Account Settings"  =  "Üyelik Bilgileri";
+"Notification" = "Bildirimler";
+"Language" = "Dil Seçeneği";
+"Help" = "Yardım";
+"Logout" =  "Çıkış";
+
+// Personal Details
+"Name" = "Ad";
+"Surname" = "Soyadı";
+"Gender" = "Cinsiyet";
+"Date of Birth" = "Doğum Tarihi";
+"Address" = "Adres";
+"Male" = "Erkek";
+"Female"  =  "Kadın";
+"Select your birthday"  = "Doğum Tarihi";
+"Done" = "Tamam";
+
+// Address Settings
+"Address Type" =  "Adres Tipi";
+"Description"   = "Açıklama";
+"Home" =  "Ev";
+"Work" =  "İş";
+"Province" =  "İl";
+"District" =  "İlçe";
+
+// Account settings
+//"Account Settings" =  "Üyelik Ayarları";
+"Phone Number" = "Cep Telefonu";
+//"Email" = "E-posta";
+//"Password" = "Şifre";
+//"Delete Account" = "Üyeliğimi Sil";
+
+"You cant update your phone number" = "Telefonunu değiştirmek mi istiyorsun?";
+"If you want to update your phone number please feel free contact us" = "Numara değiştirmek için lütfen bizi ara";
+
+// Passowrd Reset
+
+"Reset your password" =  "Şifremi Yenile";
+"Old Password" = "Eski Şifre";
+"Your password contains between 6 and 8 characters" =  "Şifre en az 6 en çok 8 rakamdan oluşmalıdır";
+"New Password"  = "Yeni Şifre";
+"Reset Password" =  "Şifremi Yenile";
+
+"You’ve got a new password" =  "Şifren yenilendi!";
+"You’ve successfully updated your password! If you didn’t make this change, contact our support team" = "Şifren başarılı şekilde güncellendi. Bu değişikliği sen yapmadıysan lütfen müşteri hizmetlerini ara.";
+
+// Notification
+"Notification Settings" = "Bildirim Ayarları";
+//"Notification"  =  "Bildirimler";
+"We suggest you to keep this option on for receiving notifications." =  "Uygulama yoluyla sana özel bildirimleri alabilmen için açık tutmanı öneririz.";
+"We suggest you to keep this option on for receiving emails." =  "E-posta yoluyla sana özel bildirimleri alabilmen için açık tutmanı öneririz.";
+"SMS" = "SMS";
+"We suggest you to keep this option on for receiving SMS." = "SMS yoluyla sana özel bildirimleri alabilmen için açık tutmanı öneririz.";
+
+
+// Delete Account
+"We’re sorry to hear you’d like to delete your account. Why are you deleting your account?" = "Ayrılıyor olmana üzüldük :( Nedenini paylaşır mısın?";
+"It doesn't seem useful" = "Faydasını görmedim";
+"I'm using another app" =  "Benzer başka bir uygulama kullanıyorum";
+"I don't like quality of service" =  "Hizmet kalitesini beğenmedim";
+"Write your comment here" =  "Ayrıca önerilerini buraya yazabilirsin";
+"Deactivate Account" = "Üyeliğimi Dondur";
+"Deactivating your account can be temporary." =  "Bize kolayca ulaşabilmen için üyelik bilgilerin saklı kalacak.";
+"Deleting your account is permanent" =   "Üyelik bilgilerin tümüyle silinecek. Tekrar geldiğinde yeniden üye olman gerekecek.";
+"Account successfully deleted" =  "Üyeliğin başarıyla silindi";
+"Your account has been successfully deleted. If you would like to reactivate your account, please contact us." =  "Bize tekrar katılmanı bekliyoruz. Hoşçakal!";
+
+// Help
+"Help" =  "Yardım";
+"FAQ" =  "Merak Ettiklerin";
+"About Goop Assist" =  "Goop Assist Hakkında";
+"Contact Us H" =  "Bize Yazın";
+"FAQ" = "Merak Ettiklerin";
+"What is Goop Assist?" =  "Goop Assist nedir?";
+"How Goop Assist works?"  = "Goop Assist nasıl çalışır?";
+"About Payment" =  "Ücretlendirme nasıl yapılır?";
+
+"Terms & Conditions" = "Kullanım Koşulları";
+"Privacy Policy" = "Gizlilik Politikası";
+"Write about services, complaints or any recommendation." =  "Öneri ve yorumlarını bizimle paylaş lütfen.";
+"Write a review" =  "Buraya yaz";
+"Send" =  "Gönder";
+"Successfully sent"= "Başarıyla gönderildi";
+"Thank you for taking your time for the review!" =  "Değerlendime için teşekkürler!";
+
+// Request
+
+"There is no request" =  "Henüz talebin yok";
+"Your requests will be shown here" = "Açtığın talepler bu ekranda görüntülenecek.";
+"My Requests" = "Taleplerim";
+"Rate - Review Your Experience" = "Hizmeti puanla";
+"Requests older than 15 days can not be rated." = "Talebin açılışı 15 günü geçtiğinden puanlama yapamayacaksın:(";
+
+//05-03-02-01-Req Dt - In Progress
+"Cancel R"  = "Talep İptali";
+"DETAILS" =  "TALEBİM";
+"HISTORY" =  "SERVİS AKIŞI";
+"Your request is in progress" =  "İşlem devam ediyor";
+"Vehicle and Driver Info" =  "Araç ve Sürücü Bilgisi";
+"Incident Type / No" =  "Olay Tipi / Numarası";
+"Incident Date" =  "Olay Tarihi";
+"Pickup Location" = "Aracın Konumu";
+"Drop-off Location" = "Teslimat Adresi";
+"Edit Location" = "Teslimat Adresini Güncelle";
+"Roadside Assistant Info" = "Asistan Bilgileri";
+"Service is being prepared" = "Hizmet hazırlanıyor";
+"Incident Photos" =  "Olay Fotoğrafları";
+"Replacement Car" =  "   İkame Araç";
+"No request" =  "Talep yok";
+"Payment Details" =  "   Ödeme Bilgisi";
+"RSA Service" = "Yol Yardım Hizmeti";
+"You will not be charged until the service is complete" = "Servis tamamlanana kadar ödeme talep edilmeyecek";
+
+//05-03-02-02-Req Dt - Completed
+"Your request has been completed" = "Talep yerine getirildi";
+"Delivered To" =  "Teslim Alan";
+"Vehicle Info" = "Araç Bilgisi";
+"Pick Up Location" =  "Aracın Konumu";
+"Replacement Car paid with Credit Card" = "İkame Araç Kredi Kartı";
+
+
+//05-03-04-01-Request Feedback-Incompleted
+
+"Rating" =  "Değerlendirme";
+"We hope you enjoyed your service. For comments, compliments or enquiries, please write to us below." = "Hizmetimizden memnun kaldın mı? Öneri ve yorumlarını bizimle paylaş lütfen.";
+"Quality of Service" = "Hizmet Kalitesi";
+"Behaviour of Your Assistant" = "Asistanın İlgisi";
+"Terrible" = "Çok Kötü";
+"Bad" = "Kötü";
+"Alright" =  "Fena değil";
+"Good"  = "İyi";
+"Perfect" =  "Harika";
+"Write your comment here"  =  "Değerlendirmeni buraya yaz lütfen.";
+"Submit"  =  "Gönder";
+
+"Thank you!" =  "Teşekkürler!";
+"Your feedback will ensure a better experience for all." = "Yorumların bize ilham verecek.";
+
+"Sure to cancel your request?" =  "Talebini iptal etmek istiyor musun?";
+"Could you tell us why you are canceling the request?" =  "İptal etme nedenini belirtir misin?";
+"Get back road again" =  "Yola devam ettim";
+"Service was delayed" = "Hizmet geç kaldı";
+"Other" =  "Diğer";
+"Cancel My Request" =  "Talebimi İptal Et";
+
+"Your request has been cancelled" =  "Talebin iptal edildi";
+"Have a nice trip!" =  "İyi yolculuklar dileriz!";
+"Get back on the road again" = "Yola devam ettim";
+"paid with Credit Card" = "Kredi Kartı";
+
+// RSA
+
+"Select Your Vehicle" =  "Aracını Seç";
+"Add New" =  "Araç Ekle";
+"Which car needs our attentions? Add a new vehicle if it is not on this list!" =  "Aracını seç. Başka bir araç için lütfen araç ekle.";
+"Incident location must be the location where your vehicle stops. If you are not beside your vehicle choose the location your vehicle stops." = "Aracın yanında değilsen, olay yeri olarak aracın bulunduğu konumu belirtmelisin.";
+"Incident Type" = "Olay Tipi";
+"Confirm P" = "Onaylıyorum";
+
+
+"Which tire is flat?" =  "Hangi lastik/lastikler sorunlu?";
+"Spare Tire?" =  "Yedek lastik var mı?";
+"Yes"  =  "Evet";
+"No" =  "Hayır";
+"Search or select drop-off location" = "Teslimat noktasını belirt";
+
+"Preview" = "Talep Özeti";
+"Cancel D" =  "Vazgeç";
+"You will not be charged until the service is complete." =  "Ödemeyi, hizmet başarıyla tamamladıktan sonra talep edeceğiz.";
+"Estimated Arrival" =  "Tahmini Varış";
+"Total" =  "Toplam";
+"Request" = "Yardım Gönder";
+
+"We’ve received your request!" = "Yardım hazırlanıyor!";
+"Track Your Request" = "Canlı Yardım Takibine Başla";

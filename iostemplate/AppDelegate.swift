@@ -6,14 +6,17 @@
 //
 
 import UIKit
+import IQKeyboardManagerSwift
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
+    var loginData : CSLoginResonse?
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        IQKeyboardManager.shared.enable = true
+        PPLocalization.sharedInstance.setLanguage(language: "en")
+        loginData = getLoginData()
         return true
     }
 
@@ -34,3 +37,18 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 }
 
+// MARK: - User extension
+
+extension AppDelegate {
+    func saveLoginData(data : CSLoginResonse) {
+        self.loginData = data
+        UserDefaults.standard.setValue(data.toDictionary(), forKey: AppConstants.LOGIN_DATA)
+    }
+    
+    fileprivate func getLoginData() -> CSLoginResonse? {
+        if let data = UserDefaults.standard.value(forKey: AppConstants.LOGIN_DATA) as? [String:Any] {
+            return CSLoginResonse.init(fromDictionary: data)
+        }
+        return nil
+    }
+}

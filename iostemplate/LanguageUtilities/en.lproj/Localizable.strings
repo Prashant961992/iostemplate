@@ -1,0 +1,297 @@
+/* 
+  Localizable.strings
+  Onlia
+
+  Created by apple on 29/08/19.
+  Copyright © 2019 Confidosoft iMac. All rights reserved.
+*/
+
+//OnBoard
+"Online 24/7 for quick response" = "Online 24/7 for quick response";
+"Besides safe road assistance service anywhere in Turkey!" = "Besides safe road assistance service anywhere in Turkey!";
+"Automatic GPS Locater" = "Automatic GPS Locater";
+"GPS locater help us find you" = "GPS locater help us find you";
+"Instant Tracer" = "Instant Tracer";
+"Real-time Updates" = "Real-time Updates";
+"Get Started" = "Get Started";
+"Already have an account?" = "Already Have An Account";
+
+// Login Screen
+"SIGN UP" = "Sign Up";
+"Login" = "Login";
+"Mobile Number" = "Mobile Number";
+"Password" = "Password";
+"Forgot password?" = "Forgot password?";
+"Login_btn" = "Login";
+
+//03-01-02-Login-Alert
+"Your phone number or password is invalid. Please try again." = "Numaran veya şifren doğru değil. Lütfen tekrar dene.";
+"OK" = "Tamam";
+
+//03-02-01-Reset Pass-Filled
+"Forgot password ?" = "Forgot password ?";
+"Email" =  "Email";
+"We will send new password to your email" = "We are going to send you a new password";
+"Continue" = "Continue";
+"Open your email app" = "Open your email app";
+
+//03-02-02-Email Verification
+"Open your email app" = "Open your email app";
+"Check your inbox" = "Check your inbox";
+
+//02-01-01-Register Phone-Default
+"Enter your phone number" = "Enter your phone number";
+"We’ll text a code to verify your phone" = "We’ll text a code to verify your phone";
+"By continuing, you agree to Onlia's Terms & Conditions and Privacy Policy" = "By continuing, you agree to Onlia's Terms & Conditions and Privacy Policy.";
+"Terms & Conditions and Privacy Policy" = "Terms & Conditions and Privacy Policy";
+"has already been registered. Please use a different number or sign in" = "has already been registered. Please use a different number or sign in.";
+"Cancel" = "Cancel";
+"Contact Us" = "Contact Us";
+"LOGIN" = "LOGIN";
+
+//02-02-01-Verification Code-Default
+"Enter verification code" = "Enter verification code";
+"We just sent a verification code to" = "We just sent a verification code to";
+"Didn’t receive it?" = "Didn’t receive it?";
+"Resend Code" = "Resend Code";
+
+//02-03-01-Profile Information-Focused
+"Personal Information" = "Personal Information";
+"Name" = "Name";
+"Surname" = "Surname";
+
+//02-04-01-Email-Default
+
+"What’s your email?" = "What’s your email?";
+"You’ve entered an invalid email Please check your email address" = "You’ve entered an invalid email. Please check your email address.";
+
+// Navigation Drawer
+"My Garage" = "My Garage";
+"My Requests" = "My Requests";
+"Reviews" = "Reviews";
+"Share the App" = "Share the App";
+"Rate Us" = "Rate Us";
+"Settings" = "Settings";
+
+// Home
+"Good morning" =  "Good morning";
+"Good afternoon" = "Good afternoon";
+"Good evening" =  "Good evening";
+"Good night" = "Good night";
+"How can we help you?"  =  "How can we help you?";
+"Towing & Rescue"  =  "Towing & Rescue";
+"Breakdown"  =  "Breakdown";
+"Flat Tire" =   "Flat Tire";
+"Jump Start" =  "Jump Start";
+"Lockout" =   "Lockout";
+"Out of Gas"  =  "Out of Gas";
+"Starting from" = "(Starting from)";
+
+
+//05-02-01-01-Vehicle List - No Item
+
+"There is no vehicle in your garage"=   "There is no vehicle in your garage";
+"Vehicles added to your garage will show up here"=  "Vehicles added to your garage will show up here";
+"Add A Vehicle" =  "Add A Vehicle";
+
+//05-02-02-01-Add New Vehicle -Default
+"Plate Number"   = "Plate Number";
+"Year"  =  "Year";
+"Make"   = "Make";
+"Model" =  "Model";
+"Save"   = "Save";
+
+//05-02-02-02-Model List
+"Models" =  "Models";
+
+//05-02-03-01-Vehicle List - One Item
+//"My Garage" = "Garajım"
+"Add"  =  "Add";
+
+//05-02-03-02-Car Details + No Image
+"Delete" = "Delete";
+
+//05-02-03-03-Edit Image
+"Cancel"   = "Cancel";
+
+//05-02-03-05-Car Details + Delete Vehicle
+"Are you sure you want to delete this vehicle?" = "Are you sure you want to delete this vehicle?";
+"Vehicle Details" = "Vehicle Details";
+
+//05-06-05-01-Reviews
+"Reviews" = "Reviews";
+
+//05-06-01-01-Settings
+"Settings" =  "Settings";
+"Personal Details" = "Personal Details";
+"Account Settings"  =  "Account Settings";
+"Notification" = "Notification";
+"Language" = "Language";
+"Help" = "Help";
+"Logout" =  "Logout";
+
+// Personal Details
+"Name" = "Name";
+"Surname" = "Surname";
+"Gender" = "Gender";
+"Date of Birth" = "Date of Birth";
+"Address" = "Address";
+"Male" = "Male";
+"Female"  =  "Female";
+"Select your birthday"  = "Select your birthday";
+"Done" = "Done";
+
+
+// Account Settings
+"Address Type" =  "Address Type";
+"Description"   = "Description";
+"Home" =  "Home";
+"Work" =  "Work";
+"Province" =  "Province";
+"District" =  "District";
+
+// Account settings
+"Account Settings" =  "Account Settings";
+"Phone Number" = "Phone Number";
+//"Email" = "Email";
+//"Password" = "Password";
+"Delete Account" = "Delete Account";
+
+"You cant update your phone number" = "You can’t update your phone number";
+"If you want to update your phone number please feel free contact us" = "If you want to update your phone number please feel free contact us.";
+
+// Passowrd Reset
+
+"Reset your password" =  "Reset your password";
+"Old Password" = "Old Password";
+"Your password contains between 6 and 8 characters" =  "Your password contains between 6 and 8 characters";
+"New Password"  = "New Password";
+"Reset Password" =  "Reset Password";
+
+"You’ve got a new password" =  "You’ve got a new password!";
+"You’ve successfully updated your password! If you didn’t make this change, contact our support team" = "You’ve successfully updated your password! If you didn’t make this change, contact our support team.";
+
+// Notification
+"Notification Settings" = "Notification Settings";
+//"Notification"  =  "Notification";
+"We suggest you to keep this option on for receiving notifications." =  "We suggest you to keep this option on for receiving notifications.";
+"We suggest you to keep this option on for receiving emails." =  "We suggest you to keep this option on for receiving emails.";
+"SMS" = "SMS";
+"We suggest you to keep this option on for receiving SMS." = "We suggest you to keep this option on for receiving SMS.";
+
+// Delete Account
+"We’re sorry to hear you’d like to delete your account. Why are you deleting your account?" = "We’re sorry to hear you’d like to delete your account. Why are you deleting your account?";
+"It doesn't seem useful" = "It doesn't seem useful";
+"I'm using another app" =  "I'm using another app";
+"I don't like quality of service" =  "I don't like quality of service";
+"Write your comment here" =  "Write your comment here";
+"Deactivate Account" = "Deactivate Account";
+"Deactivating your account can be temporary." =  "Deactivating your account can be temporary.";
+"Deleting your account is permanent" =   "Deleting your account is permanent";
+"Account successfully deleted" =  "Account successfully deleted";
+"Your account has been successfully deleted. If you would like to reactivate your account, please contact us." =  "Your account has been successfully deleted. If you would like to reactivate your account, please contact us.";
+
+// Help
+"Help" =  "Help";
+"FAQ" =  "FAQ";
+"About Goop Assist" =  "About Goop Assist";
+"Contact Us H" =  "Contact Us";
+"FAQ" = "FAQ";
+"What is Goop Assist?" =  "What is Goop Assist?";
+"How Goop Assist works?"  = "How Goop Assist works?";
+"About Payment" =  "About Payment";
+
+"Terms & Conditions" = "Terms & Conditions";
+"Privacy Policy" = "Privacy Policy";
+"Write about services, complaints or any recommendation." =  "Write about services, complaints or any recommendation.";
+"Write a review" =  "Write a review";
+"Send" =  "Send";
+"Successfully sent"= "Successfully sent";
+"Thank you for taking your time for the review!" =  "Thank you for taking your time for the review!";
+
+
+// Request
+
+"There is no request" =  "There is no request";
+"Your requests will be shown here" = "Your requests will be shown here";
+//"My Requests" = "My Requests";
+"Rate - Review Your Experience" = "Rate - Review Your Experience";
+"Requests older than 15 days can not be rated." = "Requests older than 15 days can not be rated.";
+
+//05-03-02-01-Req Dt - In Progress
+"Cancel R"  = "Cancel";
+"DETAILS" =  "DETAILS";
+"HISTORY" =  "HISTORY";
+"Your request is in progress" =  "Your request is in progress";
+"Vehicle and Driver Info" =  "Vehicle and Driver Info";
+"Incident Type / No" =  "Incident Type / No";
+"Incident Date" =  "Incident Date";
+"Pickup Location" = "Pickup Location";
+"Drop-off Location" = "Drop-off Location";
+"Edit Location" = "Edit Location";
+"Roadside Assistant Info" = "Roadside Assistant Info";
+"Service is being prepared" = "Service is being prepared";
+"Incident Photos" =  "Incident Photos";
+"Replacement Car" =  "   Replacement Car";
+"No request" =  "No request";
+"Payment Details" =  "   Payment Details";
+"RSA Service" = "RSA Service";
+"You will not be charged until the service is complete" = "You will not be charged until the service is complete";
+
+//05-03-02-02-Req Dt - Completed
+"Your request has been completed" = "Your request has been completed";
+"Delivered To" =  "Delivered To";
+"Vehicle Info" = "Vehicle Info";
+"Pick Up Location" =  "Pick Up Location";
+"Replacement Car paid with Credit Card" = "Replacement Car paid with Credit Card";
+
+
+//05-03-04-01-Request Feedback-Incompleted
+
+"Rating" =  "Rating";
+"We hope you enjoyed your service. For comments, compliments or enquiries, please write to us below." = "We hope you enjoyed your service. For comments, compliments or enquiries, please write to us below.";
+"Quality of Service" = "Quality of Service";
+"Behaviour of Your Assistant" = "Behaviour of Your Assistant";
+"Terrible" = "Terrible";
+"Bad" = "Bad";
+"Alright" =  "Alright";
+"Good"  = "Good";
+"Perfect" =  "Perfect";
+"Write your comment here"  =  "Write your comment here";
+"Submit"  =  "Submit";
+
+"Thank you!" =  "Thank you!";
+"Your feedback will ensure a better experience for all." = "Your feedback will ensure a better experience for all.";
+
+"Sure to cancel your request?" =  "Sure to cancel your request?";
+"Could you tell us why you are canceling the request?" =  "Could you tell us why you are canceling the request?";
+"Get back road again" =  "Get back road again";
+"Service was delayed" = "Service was delayed";
+"Other" =  "Other";
+"Cancel My Request" =  "Cancel My Request";
+
+"Your request has been cancelled" =  "Your request has been cancelled";
+"Have a nice trip!" =  "Have a nice trip!";
+"Get back on the road again" = "Get back on the road again";
+"paid with Credit Card" = "paid with Credit Card";
+
+
+// RSA
+
+"Select Your Vehicle" =  "Select Your Vehicle";
+"Add New" =  "Add New";
+"Which car needs our attentions? Add a new vehicle if it is not on this list!" =  "Which car needs our attentions? Add a new vehicle if it is not on this list!";
+"Incident location must be the location where your vehicle stops. If you are not beside your vehicle choose the location your vehicle stops." = "Incident location must be the location where your vehicle stops. If you are not beside your vehicle choose the location your vehicle stops.";
+"Incident Type" = "Incident Type";
+"Confirm" = "Confirm";
+"Search or select drop-off location" = "Search or select drop-off location";
+
+"Preview" = "Preview";
+"Cancel D" =  "Cancel";
+"You will not be charged until the service is complete." =  "You will not be charged until the service is complete.";
+"Estimated Arrival" =  "Estimated Arrival";
+"Total" =  "Total";
+"Request" = "Request";
+
+"We’ve received your request!" = "We’ve received your request!";
+"Track Your Request" = "Track Your Request";
